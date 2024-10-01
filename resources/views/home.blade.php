@@ -48,7 +48,7 @@
         <div class="feature-section">
             <!-- Feature Card 1 -->
             <div class="card feature-card">
-                <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Feature 1">
+                <img src="img/milky_way.jpg" class="card-img-top" alt="Feature 1">
                 <div class="card-body">
                     <h5 class="card-title">Feature One</h5>
                     <p class="card-text">Deskripsi singkat tentang fitur pertama.</p>
@@ -58,7 +58,7 @@
 
             <!-- Feature Card 2 -->
             <div class="card feature-card">
-                <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Feature 2">
+                <img src="img/milky_way.jpg" class="card-img-top" alt="Feature 2">
                 <div class="card-body">
                     <h5 class="card-title">Feature Two</h5>
                     <p class="card-text">Deskripsi singkat tentang fitur kedua.</p>
@@ -68,7 +68,7 @@
 
             <!-- Feature Card 3 -->
             <div class="card feature-card">
-                <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Feature 3">
+                <img src="img/milky_way.jpg" class="card-img-top" alt="Feature 3">
                 <div class="card-body">
                     <h5 class="card-title">Feature Three</h5>
                     <p class="card-text">Deskripsi singkat tentang fitur ketiga.</p>
