@@ -1,0 +1,41 @@
+/* Responsif untuk perangkat kecil */
+@media (max-width: 768px) {
+    .half-page {
+        height: 40vh; /* Sesuaikan tinggi untuk perangkat kecil */
+    }
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.landing-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.half-page {
+    height: 50vh;
+    width: 100%;
+    overflow: hidden;
+}
+.half-page img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    width: 100%;
+}
+.welcome-text {
+    margin-bottom: 20px;
+    text-align: center;
+}
