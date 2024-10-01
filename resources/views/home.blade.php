@@ -40,7 +40,7 @@
     <div class="container home-container">
         <!-- Welcome Section -->
         <div class="welcome-section">
-            <h1>Welcome to Home Page</h1>
+            <h1>Welcome to my Home Page</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel mauris quam.</p>
         </div>
 
